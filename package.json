@@ -1,5 +1,5 @@
 {
-  "name": "imagemin-mozjpeg",
+  "name": "@mlz/imagemin-mozjpeg",
   "version": "8.0.0",
   "description": "Imagemin plugin for mozjpeg",
   "license": "MIT",
@@ -43,7 +43,7 @@
   "dependencies": {
     "execa": "^1.0.0",
     "is-jpg": "^2.0.0",
-    "mozjpeg": "^6.0.0"
+    "@mlz/mozjpeg": "^6.0.2"
   },
   "devDependencies": {
     "ava": "^1.0.1",
